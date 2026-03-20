@@ -1,7 +1,7 @@
 ❌-⭕ Tic Tac Toe Game
 
 A simple and interactive Tic Tac Toe web application built using front-end technologies. This game allows two players to play against each other in a classic 3×3 grid format with a smooth and user-friendly interface.
-LINK:file:///C:/Users/Chavi%20Rathi/OneDrive/Desktop/javascript/projects/game/X-O.html
+LINK-> file:///C:/Users/Chavi%20Rathi/OneDrive/Desktop/javascript/projects/game/X-O.html
 
 🚀 Features
 
